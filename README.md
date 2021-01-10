@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BeADre)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi, I'm BeADre 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BeADre&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
+
 
 <!--
 **BeADre/BeADre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
